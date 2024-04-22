@@ -30,7 +30,7 @@ The dataset comprises the following features:
 7. **Article_correction**: Any corrections of the article content if the article was fake(if availble).
 
 ### Preprocessing
-Before merging the datasets, several preprocessing steps were applied to ensure consistency and ease of merging. This included translating topic names and labels, as well as standardizing punctuation and synonyms across different datasets. Additionally, some datasets required merging to consolidate related information into a single file.
+Before using the dataset, several preprocessing steps were applied to ensure consistency and ease of usage. This included translating topic names and labels, as well as standardizing punctuation and synonyms across different instances of the dataset. Additionally, some instances required dropping them to make the final data reliable.
 
 # Developed Models    
 
